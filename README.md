@@ -1,3 +1,5 @@
+For the research seminar Career-Relevant Writing Exercise I add the following project to my github account. 
+
 # Breast Cancer Dataset 
 
 I have worked on an independent project to explore various Machine Learning algorithms on breast cancer datasets from the UCI Machine Learning Repository to classify whether a set of readings from clinical reports are positive for breast cancer or not. 
